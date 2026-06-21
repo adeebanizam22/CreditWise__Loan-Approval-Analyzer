@@ -1,6 +1,6 @@
 # CreditWise — Loan Approval Analyzer
 
-Live Demo: [Click here]https://adeebanizam22-creditwise--loan-approval-analyzer-app-0whqle.streamlit.app/
+Live Demo: [Click Here](https://adeebanizam22-creditwise--loan-approval-analyzer-app-0whqle.streamlit.app/)
 
 An end-to-end machine learning project that predicts loan approval using multiple classification algorithms.
 
