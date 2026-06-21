@@ -1,4 +1,4 @@
-# CreditWise — Loan Approval Analyzer
+# CreditWise - Loan Approval Analyzer
 
 Live Demo: [Click Here](https://adeebanizam22-creditwise--loan-approval-analyzer-app-0whqle.streamlit.app/)
 
