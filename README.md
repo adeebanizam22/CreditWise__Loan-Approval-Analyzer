@@ -1,2 +1,3 @@
-# LoanIQ-Approval-Predictor
+#CreditWise__Loan-Approval-Analyzer
+Live Demo: CreditWise__Loan-Approval-Analyzer
 Machine learning web app that predicts loan approval using Naive Bayes · Built with Python, Scikit-learn &amp; Streamlit
