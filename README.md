@@ -12,3 +12,7 @@ An end-to-end machine learning project that predicts loan approval using multipl
 
 ## Tech Stack
 Python · Pandas · Scikit-learn · Naive Bayes · Streamlit
+Website Visuals :
+<img width="1685" height="782" alt="image" src="https://github.com/user-attachments/assets/7b591b31-3331-4948-803f-b241d1cee01d" />
+<img width="1715" height="807" alt="image" src="https://github.com/user-attachments/assets/a5e37a6e-72da-417b-9316-b0904da25499" />
+
